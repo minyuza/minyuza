@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=minyuza%20&fontSize=80&fontAlignY=40&animation=twinkling&fontColor=ffffff)
 
-<!-- <div align="center">
+<div align="center">
   
-  ![nvrtmd's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvrtmd&show_icons=true&hide=stars,issues&theme=vision-friendly-dark&custom_title=yuzamin's%20work)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvrtmd&exclude_repo=movie-mbti&hide=shell&layout=compact)
+  ![minyuza's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyuza&show_icons=true&hide=stars,issues&theme=vision-friendly-dark&custom_title=yuzamin's%20work)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minyuza&exclude_repo=movie-mbti&hide=shell&layout=compact)
   
 </div>
- -->
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">Tech that I've used for my projects</p>
 <p align="center">

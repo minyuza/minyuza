@@ -28,7 +28,7 @@
 
 <h3 align="center">🐙 Another Github 🐙</h3>
 <div align="center">
-  <a href="https://github.com/nvrtmd"><img src="https://img.shields.io/badge/Github-000000?style=flat&logo=Github&logoColor=white&link=https://github.com/nvtmd"/></a>  
+  <a href="https://github.com/nvrtmd" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=flat&logo=Github&logoColor=white&link=https://github.com/nvtmd"/></a>  
 </div> 
 
 <br /> 

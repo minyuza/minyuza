@@ -18,17 +18,18 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/></a>&nbsp </p>
 <br /> 
-<h3 align="center">✉ Contact ✉</h3>
-<div align="center">
-  <a href="mailto:mmyyjjj@naver.com"><img src="https://img.shields.io/badge/Mail-005FF9?style=flat&logo=Mail.Ru&logoColor=white&link=mmyyjjj@naver.com"/></a>  
-</div> 
-
-<br /> 
-<br /> 
-
 <h3 align="center">🐙 Another Github 🐙</h3>
 <div align="center">
   <a href="https://github.com/nvrtmd" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=flat&logo=Github&logoColor=white&link=https://github.com/nvtmd"/></a>  
+</div> 
+
+
+<br /> 
+<br /> 
+
+<h3 align="center">✉ Contact ✉</h3>
+<div align="center">
+  <a href="mailto:mmyyjjj@naver.com"><img src="https://img.shields.io/badge/Mail-005FF9?style=flat&logo=Mail.Ru&logoColor=white&link=mmyyjjj@naver.com"/></a>  
 </div> 
 
 <br /> 

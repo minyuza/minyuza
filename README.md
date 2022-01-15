@@ -1,10 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=minyuza%20&fontSize=80&fontAlignY=40&animation=twinkling&fontColor=ffffff)
 
-<div align="center">
-  
-  ![minyuza's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyuza&show_icons=true&hide=stars,issues&theme=vision-friendly-dark&custom_title=yuzamin's%20work)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minyuza&exclude_repo=movie-mbti&hide=shell&layout=compact)
-  
-  <br /> 
 
 </div>
 <h3 align="center">🐣 I am... 🐣</h3>

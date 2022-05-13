@@ -11,6 +11,16 @@
   
 </div>
 
+<div align="center">
+  
+  
+<a href="https://opgc.me/#/users/minyuza" target="_blank"><img src="https://api.opgc.me/githubs/users/minyuza/tag/?theme=basic" /></a>
+  
+  
+</div>
+
+
+
 <br /> 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
